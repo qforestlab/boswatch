@@ -104,3 +104,7 @@ http://localhost:8000
 - It is best suited for field use on a laptop or tablet browser.
 - Data is stored in the browser, so use a browser that supports localStorage for reliable persistence.
 - In private/incognito mode, storage may not persist after the tab is closed.
+
+## Author
+
+Karun Dayal
